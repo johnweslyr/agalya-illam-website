@@ -1,0 +1,1 @@
+Put your images here (hero.jpg, gallery photos, UPI QR, logo, etc.).
